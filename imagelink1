@@ -56,7 +56,7 @@ div.desc {
 
 <div class="responsive">
   <div class="gallery">
-      <img src="assests/graph1.jpg" alt="Cinque Terre" width="600" height="400">
+      <img src="assests/graph1.png" alt="Cinque Terre" width="600" height="400">
     <div class="desc">Add a description of the image here</div>
   </div>
 </div>
